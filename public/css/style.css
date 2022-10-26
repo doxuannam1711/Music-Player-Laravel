@@ -16,7 +16,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #37c3ac;
+    /* background-color: #37c3ac; */
+    background:linear-gradient(to top, rgba(48,81,101,0.800) 0%,
+   rgba(48,81,101,0.298) 33%, rgba(55,195,172,1) 100%);
     position: absolute;
     top: 0;
     bottom: 0;
